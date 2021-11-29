@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tegshi
+- 👋 Hi, I’m @Anthony
 - 👀 I’m not really sure what I'm interested in
-- 🌱 I’m currently learning C++, Swift
+- 🌱 I’m currently learning C++, Swift, Python, Java, Typescript, Node.js
 - 💞️ I’m looking to collaborate on beginner friendly projects to get a handle on working on projects and with multiple people
 
 <!---
